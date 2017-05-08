@@ -1,0 +1,6 @@
+The shell was working good before I reach 3.11 Edit Mode of the project, after I run the addition
+Makefile, the shell became unable to type and enter and so on. I don't know how to reverse the 
+that process. The shell can still pass the testcases somehow and I hope I can still get some point 
+before step 3.11 besides the shell I built is not working properly.
+
+I didn't implement the subshell, history the special character. 
